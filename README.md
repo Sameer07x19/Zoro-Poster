@@ -1,2 +1,2 @@
-# Zoro_Poster
+# Zoro Poster
 A simple poster of Zoro 🖤
